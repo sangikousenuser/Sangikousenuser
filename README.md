@@ -1,16 +1,21 @@
-## Hi there 👋
+# 私について / About Me
 
-<!--
-**sangikousenuser/Sangikousenuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. 🌏 日本のウェブ開発者です / I'm a web developer from Japan
 
-Here are some ideas to get you started:
+2. 💻 フロントエンド・バックエンド開発が得意分野です
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3. 🌱 常に新しい技術を学び続けています
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Sangikouser&show_icons=true&locale=en&layout=compact)
+
+## プログラミング言語 / Programming Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java" /> <br /><br />
+
+## フレームワークとライブラリ / Frameworks and Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,spring" /> <br /><br />
+
+## 開発ツールなど / Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql" /> <br /><br />
