@@ -4,7 +4,7 @@
 
 💻 フルスタック開発に興味があります / Interested in Full-stack Development
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Sangikouser&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Sangikousenuser&show_icons=true&locale=en&layout=compact)
 
 ## プログラミング言語 / Programming Languages
 
