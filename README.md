@@ -12,9 +12,6 @@
 <!-- 言語使用統計 - プライベートリポジトリを含む -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangikousenuser&layout=compact&count_private=true&include_all_commits=true)
 
-<!-- GitHub Trophy -->
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sangikousenuser)
-
 <!-- Discord Status -->
 ![Discord Status](https://discord.c99.nl/widget/theme-2/934704273579708487.png)
 
