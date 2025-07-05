@@ -7,16 +7,16 @@
 ## 📊 GitHub Stats & Activities
 
 <!-- GitHubステータス - プライベートリポジトリを含む -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangikouser&show_icons=true&count_private=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangikousenuser&show_icons=true&count_private=true&theme=default)
 
 <!-- 言語使用統計 - プライベートリポジトリを含む -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangikouser&layout=compact&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangikousenuser&layout=compact&count_private=true&include_all_commits=true)
 
 <!-- GitHub Trophy -->
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sangikouser)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Sangikousenuser)
 
 <!-- Discord Status -->
-![Discord Status](https://discord.c99.nl/widget/theme-2/YOUR_DISCORD_ID.png)
+![Discord Status](https://discord.c99.nl/widget/theme-2/934704273579708487.png)
 
 ## プログラミング言語 / Programming Languages
 
