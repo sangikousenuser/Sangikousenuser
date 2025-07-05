@@ -13,7 +13,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangikousenuser&layout=compact&count_private=true&include_all_commits=true)
 
 <!-- Discord Status -->
-![Discord Status](https://discord.c99.nl/widget/theme-2/934704273579708487.png)
+![Discord Presence](https://lanyard-profile-readme.vercel.app/api/934704273579708487)
 
 ## プログラミング言語 / Programming Languages
 
