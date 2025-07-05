@@ -12,9 +12,6 @@
 <!-- 言語使用統計 - プライベートリポジトリを含む -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangikousenuser&layout=compact&count_private=true&include_all_commits=true)
 
-<!-- Discord Status -->
-![Discord Presence](https://lanyard-profile-readme.vercel.app/api/934704273579708487)
-
 ## プログラミング言語 / Programming Languages
 
 <img src="https://skillicons.dev/icons?i=html,java,js,css,ts,python,swift" /> <br /><br />
