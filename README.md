@@ -6,7 +6,7 @@
 
 3. 🌱 常に新しい技術を学び続けています
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Sangikouser&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Sangikousenuser&show_icons=true&locale=en&layout=compact)
 
 ## プログラミング言語 / Programming Languages
 
