@@ -17,9 +17,3 @@
 | **Editors** | `NeoVim` `Zed` |
 
 <br>
-
-### ⚡ Current Activities
-
-- 🔭 **Currently working on:** [開発中のプロジェクト名やリンク]
-- 🌱 **Currently learning:** [今学んでいる技術など]
-- 💬 **Ask me about:** Backend Architecture, Rust, NeoVim
