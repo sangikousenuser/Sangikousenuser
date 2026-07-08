@@ -1,12 +1,8 @@
 <div align="center">
   <h1>Hi there, I'm Sangikousenuser 👋</h1>
   <p>
-    <b>Backend-focused Student Developer 💻</b>
-  </p>
+    バックエンドが得意です
   <p>
-    バックエンド開発を得意とする学生エンジニアです。<br>
-    サーバーサイドからインフラまで、堅牢なシステム構築を好みます。
-  </p>
 </div>
 
 ---
