@@ -10,12 +10,6 @@
   </a>
 </p>
 
-## About me
-
-- I build products across frontend, backend, mobile, infrastructure, and design.
-- I enjoy turning ideas into polished interfaces, reliable systems, and practical workflows.
-- I work comfortably across modern JavaScript ecosystems, cloud platforms, databases, and creative tools.
-
 ## Tech Stack
 
 ### Frontend
