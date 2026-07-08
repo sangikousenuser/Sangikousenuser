@@ -101,9 +101,24 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sangikousenuser&show_icons=true&theme=tokyonight&hide_border=true" alt="sangikousenuser GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangikousenuser&layout=compact&theme=tokyonight&hide_border=true" alt="sangikousenuser top languages" />
+  <a href="https://github.com/sangikousenuser">
+    <img height="170" src="img/profile_stats.svg" alt="sangikousenuser GitHub stats" />
+  </a>
+  <a href="https://github.com/sangikousenuser">
+    <img height="170" src="img/profile_languages.svg" alt="sangikousenuser top languages" />
+  </a>
 </p>
+
+<!--
+Private repository activity can be reflected by GitHub Actions.
+Set these repository secrets:
+
+PROFILE_STATS_URL
+https://YOUR_DOMAIN_URL/api/?username=sangikousenuser&count_private=true&show_icons=true&theme=tokyonight&hide_border=true
+
+PROFILE_LANGUAGES_URL
+https://YOUR_DOMAIN_URL/api/top-langs/?username=sangikousenuser&count_private=true&layout=compact&theme=tokyonight&hide_border=true
+-->
 
 -----
 Credits: [sangikousenuser](https://github.com/sangikousenuser)

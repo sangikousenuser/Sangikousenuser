@@ -1,0 +1,88 @@
+name: Update profile SVGs
+
+on:
+  schedule:
+    # JST 06:00 -> UTC 21:00
+    - cron: "0 21 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: update-profile-svgs
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      PROFILE_STATS_URL: ${{ secrets.PROFILE_STATS_URL }}
+      PROFILE_LANGUAGES_URL: ${{ secrets.PROFILE_LANGUAGES_URL }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate secrets
+        run: |
+          set -euo pipefail
+
+          if [ -z "${PROFILE_STATS_URL:-}" ] || [ -z "${PROFILE_LANGUAGES_URL:-}" ]; then
+            echo "PROFILE_STATS_URL or PROFILE_LANGUAGES_URL is not set in repository secrets."
+            exit 1
+          fi
+
+      - name: Fetch and update SVGs
+        run: |
+          set -euo pipefail
+
+          PAIRS=(
+            "${PROFILE_STATS_URL}|img/profile_stats.svg"
+            "${PROFILE_LANGUAGES_URL}|img/profile_languages.svg"
+          )
+
+          for pair in "${PAIRS[@]}"; do
+            IFS='|' read -r url dest <<< "$pair"
+            tmp="$(mktemp)"
+
+            echo "Fetch to: $dest"
+            if echo "$url" | grep -q '?'; then
+              bust_url="${url}&_ts=$(date +%s)"
+            else
+              bust_url="${url}?_ts=$(date +%s)"
+            fi
+
+            curl -fsSL --retry 3 --retry-delay 2 "$bust_url" -o "$tmp"
+
+            if [ ! -s "$tmp" ]; then
+              echo "Empty response for $dest"
+              rm -f "$tmp"
+              exit 1
+            fi
+
+            if ! grep -qi '<svg' "$tmp"; then
+              echo "Response for $dest does not look like SVG"
+              rm -f "$tmp"
+              exit 1
+            fi
+
+            mkdir -p "$(dirname "$dest")"
+            mv "$tmp" "$dest"
+            echo "Wrote: $dest"
+          done
+
+      - name: Update marker file
+        run: |
+          set -euo pipefail
+          mkdir -p .github
+          date -u +%FT%TZ > .github/last-run.txt
+
+      - name: Commit and push
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/last-run.txt img/profile_stats.svg img/profile_languages.svg
+          git commit -m "Update profile stats"
+          git push
