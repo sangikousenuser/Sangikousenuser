@@ -110,14 +110,8 @@
 </p>
 
 <!--
-Private repository activity can be reflected by GitHub Actions.
-Set these repository secrets:
-
-PROFILE_STATS_URL
-https://YOUR_DOMAIN_URL/api/?username=sangikousenuser&count_private=true&show_icons=true&theme=tokyonight&hide_border=true
-
-PROFILE_LANGUAGES_URL
-https://YOUR_DOMAIN_URL/api/top-langs/?username=sangikousenuser&count_private=true&layout=compact&theme=tokyonight&hide_border=true
+Private repository activity is reflected by GitHub Actions.
+Set PROFILE_GITHUB_TOKEN in repository secrets with a GitHub token that can read private repositories.
 -->
 
 -----
