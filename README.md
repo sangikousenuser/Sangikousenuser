@@ -1,27 +1,42 @@
-# 私について / About Me
+<h1 align="center">Hi there, I'm Sangikousenuser 👋</h1>
 
-🎓 学生エンジニア / Student Developer
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Student+Developer+🎓;Interested+in+Full-stack+Development+💻;Always+learning+new+technologies+🚀" alt="Typing SVG" />
+  </a>
+</p>
 
-💻 フルスタック開発に興味があります / Interested in Full-stack Development
+<p align="center">
+  フルスタック開発を目指して日々学習中の学生エンジニアです。<br>
+  バックエンドからフロントエンドまで、幅広くモダンな技術に触れるのが好きです。
+</p>
 
-## 📊 GitHub Stats & Activities
+<br>
 
-<!-- GitHubステータス - プライベートリポジトリを含む -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangikousenuser&show_icons=true&count_private=true&theme=default)
+### 🛠 Tech Stack
 
-<!-- 言語使用統計 - プライベートリポジトリを含む -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangikousenuser&layout=compact&count_private=true&include_all_commits=true)
+**Languages**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,js,ts,python,cpp,rust" alt="Languages" />
+</a>
 
-## プログラミング言語 / Programming Languages
+**Frameworks**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,vue,express" alt="Frameworks" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=html,java,js,css,ts,python,swift" /> <br /><br />
+**Tools & Infra**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,github,docker,postgres,cloudflare,aws" alt="Tools" />
+</a>
 
-## フレームワークとライブラリ / Frameworks and Libraries
+> ⚡ **My Weapons of Choice:** Zed, NeoVim
 
-<img src="https://skillicons.dev/icons?i=react,express,flask" /> <br /><br />
+<br>
 
-## 開発ツールなど / Dev Tools etc
+### 📊 GitHub Stats
 
-<img src="https://skillicons.dev/icons?i=github,vscode,docker,mysql" /> <br /><br />
-
-⚡ 好きなエディタ: VSCode, Cursor, Zed
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sangikousenuser&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangikousenuser&layout=compact&count_private=true&theme=transparent&hide_border=true&title_color=3B82F6" alt="Top Languages" height="195"/>
+</p>
