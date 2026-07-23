@@ -21,7 +21,7 @@
   <text x="224" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">45.7%</text>
   <circle cx="265" cy="94" r="5" fill="#BF91F3"/>
   <text x="278" y="98" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">Vue</text>
-  <text x="460" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">16.1%</text>
+  <text x="460" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">16.2%</text>
   <circle cx="29" cy="120" r="5" fill="#38BDAE"/>
   <text x="42" y="124" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">HTML</text>
   <text x="224" y="124" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">12.9%</text>
@@ -33,7 +33,7 @@
   <text x="224" y="150" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">7.0%</text>
   <circle cx="265" cy="146" r="5" fill="#FFA657"/>
   <text x="278" y="150" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">TeX</text>
-  <text x="460" y="150" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">5.0%</text>
+  <text x="460" y="150" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">4.9%</text>
   <circle cx="29" cy="172" r="5" fill="#8B949E"/>
   <text x="42" y="176" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">Python</text>
   <text x="224" y="176" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">4.1%</text>
