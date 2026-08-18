@@ -33,7 +33,7 @@
   <text x="224" y="150" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">7.1%</text>
   <circle cx="265" cy="146" r="5" fill="#FFA657"/>
   <text x="278" y="150" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">TeX</text>
-  <text x="460" y="150" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">4.7%</text>
+  <text x="460" y="150" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">4.6%</text>
   <circle cx="29" cy="172" r="5" fill="#8B949E"/>
   <text x="42" y="176" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">Python</text>
   <text x="224" y="176" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">4.0%</text>
