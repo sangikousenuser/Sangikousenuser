@@ -7,8 +7,8 @@
     <rect x="24" y="58" width="447" height="10" rx="5"/>
   </clipPath>
   <g clip-path="url(#bar)">
-  <rect x="24" y="58" width="204" height="10" fill="#70A5FD"/>
-  <rect x="228" y="58" width="77" height="10" fill="#BF91F3"/>
+  <rect x="24" y="58" width="203" height="10" fill="#70A5FD"/>
+  <rect x="227" y="58" width="78" height="10" fill="#BF91F3"/>
   <rect x="305" y="58" width="54" height="10" fill="#38BDAE"/>
   <rect x="359" y="58" width="37" height="10" fill="#F1E05A"/>
   <rect x="396" y="58" width="32" height="10" fill="#FF7B72"/>
@@ -21,13 +21,13 @@
   <text x="224" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">45.5%</text>
   <circle cx="265" cy="94" r="5" fill="#BF91F3"/>
   <text x="278" y="98" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">Vue</text>
-  <text x="460" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">17.3%</text>
+  <text x="460" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">17.4%</text>
   <circle cx="29" cy="120" r="5" fill="#38BDAE"/>
   <text x="42" y="124" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">HTML</text>
-  <text x="224" y="124" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">12.2%</text>
+  <text x="224" y="124" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">12.1%</text>
   <circle cx="265" cy="120" r="5" fill="#F1E05A"/>
   <text x="278" y="124" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">JavaScript</text>
-  <text x="460" y="124" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">8.3%</text>
+  <text x="460" y="124" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">8.2%</text>
   <circle cx="29" cy="146" r="5" fill="#FF7B72"/>
   <text x="42" y="150" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">CSS</text>
   <text x="224" y="150" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">7.1%</text>
