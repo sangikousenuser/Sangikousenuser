@@ -24,7 +24,7 @@
   <text x="460" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">17.4%</text>
   <circle cx="29" cy="120" r="5" fill="#38BDAE"/>
   <text x="42" y="124" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">HTML</text>
-  <text x="224" y="124" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">12.1%</text>
+  <text x="224" y="124" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">12.2%</text>
   <circle cx="265" cy="120" r="5" fill="#F1E05A"/>
   <text x="278" y="124" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">JavaScript</text>
   <text x="460" y="124" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">8.2%</text>
