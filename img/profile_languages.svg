@@ -7,21 +7,21 @@
     <rect x="24" y="58" width="447" height="10" rx="5"/>
   </clipPath>
   <g clip-path="url(#bar)">
-  <rect x="24" y="58" width="156" height="10" fill="#70A5FD"/>
-  <rect x="180" y="58" width="140" height="10" fill="#BF91F3"/>
-  <rect x="320" y="58" width="47" height="10" fill="#38BDAE"/>
-  <rect x="367" y="58" width="36" height="10" fill="#F1E05A"/>
-  <rect x="403" y="58" width="30" height="10" fill="#FF7B72"/>
-  <rect x="433" y="58" width="17" height="10" fill="#FFA657"/>
-  <rect x="450" y="58" width="12" height="10" fill="#8B949E"/>
-  <rect x="462" y="58" width="11" height="10" fill="#3FB950"/>
+  <rect x="24" y="58" width="155" height="10" fill="#70A5FD"/>
+  <rect x="179" y="58" width="140" height="10" fill="#BF91F3"/>
+  <rect x="319" y="58" width="47" height="10" fill="#38BDAE"/>
+  <rect x="366" y="58" width="36" height="10" fill="#F1E05A"/>
+  <rect x="402" y="58" width="30" height="10" fill="#FF7B72"/>
+  <rect x="432" y="58" width="17" height="10" fill="#FFA657"/>
+  <rect x="449" y="58" width="12" height="10" fill="#8B949E"/>
+  <rect x="461" y="58" width="11" height="10" fill="#3FB950"/>
   </g>
   <circle cx="29" cy="94" r="5" fill="#70A5FD"/>
   <text x="42" y="98" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">TypeScript</text>
-  <text x="224" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">34.9%</text>
+  <text x="224" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">34.7%</text>
   <circle cx="265" cy="94" r="5" fill="#BF91F3"/>
   <text x="278" y="98" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">JavaScript</text>
-  <text x="460" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">31.2%</text>
+  <text x="460" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">31.4%</text>
   <circle cx="29" cy="120" r="5" fill="#38BDAE"/>
   <text x="42" y="124" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">Vue</text>
   <text x="224" y="124" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">10.5%</text>
