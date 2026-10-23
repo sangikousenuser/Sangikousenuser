@@ -30,13 +30,13 @@
   <text x="460" y="124" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">9.3%</text>
   <circle cx="29" cy="146" r="5" fill="#FF7B72"/>
   <text x="42" y="150" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">Rust</text>
-  <text x="224" y="150" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">6.5%</text>
+  <text x="224" y="150" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">6.4%</text>
   <circle cx="265" cy="146" r="5" fill="#FFA657"/>
   <text x="278" y="150" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">HTML</text>
   <text x="460" y="150" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">5.5%</text>
   <circle cx="29" cy="172" r="5" fill="#8B949E"/>
   <text x="42" y="176" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">Java</text>
-  <text x="224" y="176" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">3.3%</text>
+  <text x="224" y="176" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">3.2%</text>
   <circle cx="265" cy="172" r="5" fill="#3FB950"/>
   <text x="278" y="176" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">Python</text>
   <text x="460" y="176" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">3.2%</text>
