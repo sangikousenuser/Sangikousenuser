@@ -7,36 +7,36 @@
     <rect x="24" y="58" width="447" height="10" rx="5"/>
   </clipPath>
   <g clip-path="url(#bar)">
-  <rect x="24" y="58" width="161" height="10" fill="#70A5FD"/>
-  <rect x="185" y="58" width="114" height="10" fill="#BF91F3"/>
-  <rect x="299" y="58" width="49" height="10" fill="#38BDAE"/>
-  <rect x="348" y="58" width="42" height="10" fill="#F1E05A"/>
-  <rect x="390" y="58" width="28" height="10" fill="#FF7B72"/>
-  <rect x="418" y="58" width="24" height="10" fill="#FFA657"/>
-  <rect x="442" y="58" width="15" height="10" fill="#8B949E"/>
-  <rect x="457" y="58" width="14" height="10" fill="#3FB950"/>
+  <rect x="24" y="58" width="160" height="10" fill="#70A5FD"/>
+  <rect x="184" y="58" width="114" height="10" fill="#BF91F3"/>
+  <rect x="298" y="58" width="49" height="10" fill="#38BDAE"/>
+  <rect x="347" y="58" width="42" height="10" fill="#F1E05A"/>
+  <rect x="389" y="58" width="30" height="10" fill="#FF7B72"/>
+  <rect x="419" y="58" width="24" height="10" fill="#FFA657"/>
+  <rect x="443" y="58" width="15" height="10" fill="#8B949E"/>
+  <rect x="458" y="58" width="14" height="10" fill="#3FB950"/>
   </g>
   <circle cx="29" cy="94" r="5" fill="#70A5FD"/>
   <text x="42" y="98" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">JavaScript</text>
-  <text x="224" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">35.9%</text>
+  <text x="224" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">35.8%</text>
   <circle cx="265" cy="94" r="5" fill="#BF91F3"/>
   <text x="278" y="98" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">TypeScript</text>
   <text x="460" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">25.5%</text>
   <circle cx="29" cy="120" r="5" fill="#38BDAE"/>
   <text x="42" y="124" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">Vue</text>
-  <text x="224" y="124" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">11.0%</text>
+  <text x="224" y="124" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">10.9%</text>
   <circle cx="265" cy="120" r="5" fill="#F1E05A"/>
   <text x="278" y="124" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">CSS</text>
   <text x="460" y="124" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">9.3%</text>
   <circle cx="29" cy="146" r="5" fill="#FF7B72"/>
   <text x="42" y="150" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">Rust</text>
-  <text x="224" y="150" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">6.4%</text>
+  <text x="224" y="150" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">6.7%</text>
   <circle cx="265" cy="146" r="5" fill="#FFA657"/>
   <text x="278" y="150" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">HTML</text>
   <text x="460" y="150" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">5.4%</text>
   <circle cx="29" cy="172" r="5" fill="#8B949E"/>
   <text x="42" y="176" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">Java</text>
-  <text x="224" y="176" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">3.3%</text>
+  <text x="224" y="176" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">3.2%</text>
   <circle cx="265" cy="172" r="5" fill="#3FB950"/>
   <text x="278" y="176" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">Python</text>
   <text x="460" y="176" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">3.2%</text>
