@@ -12,16 +12,16 @@
   <rect x="295" y="58" width="49" height="10" fill="#38BDAE"/>
   <rect x="344" y="58" width="41" height="10" fill="#F1E05A"/>
   <rect x="385" y="58" width="33" height="10" fill="#FF7B72"/>
-  <rect x="418" y="58" width="26" height="10" fill="#FFA657"/>
-  <rect x="444" y="58" width="14" height="10" fill="#8B949E"/>
-  <rect x="458" y="58" width="14" height="10" fill="#3FB950"/>
+  <rect x="418" y="58" width="25" height="10" fill="#FFA657"/>
+  <rect x="443" y="58" width="14" height="10" fill="#8B949E"/>
+  <rect x="457" y="58" width="14" height="10" fill="#3FB950"/>
   </g>
   <circle cx="29" cy="94" r="5" fill="#70A5FD"/>
   <text x="42" y="98" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">JavaScript</text>
-  <text x="224" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">35.7%</text>
+  <text x="224" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">35.6%</text>
   <circle cx="265" cy="94" r="5" fill="#BF91F3"/>
   <text x="278" y="98" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">TypeScript</text>
-  <text x="460" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">25.1%</text>
+  <text x="460" y="98" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">25.0%</text>
   <circle cx="29" cy="120" r="5" fill="#38BDAE"/>
   <text x="42" y="124" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">Vue</text>
   <text x="224" y="124" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">10.9%</text>
@@ -30,13 +30,13 @@
   <text x="460" y="124" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">9.1%</text>
   <circle cx="29" cy="146" r="5" fill="#FF7B72"/>
   <text x="42" y="150" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">Rust</text>
-  <text x="224" y="150" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">7.3%</text>
+  <text x="224" y="150" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">7.5%</text>
   <circle cx="265" cy="146" r="5" fill="#FFA657"/>
   <text x="278" y="150" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">HTML</text>
   <text x="460" y="150" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">5.7%</text>
   <circle cx="29" cy="172" r="5" fill="#8B949E"/>
   <text x="42" y="176" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">Java</text>
-  <text x="224" y="176" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">3.2%</text>
+  <text x="224" y="176" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">3.1%</text>
   <circle cx="265" cy="172" r="5" fill="#3FB950"/>
   <text x="278" y="176" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="13">Python</text>
   <text x="460" y="176" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end">3.1%</text>
